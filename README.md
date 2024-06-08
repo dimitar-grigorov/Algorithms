@@ -17,22 +17,22 @@ Algorithms/
 │   └── Graphs/
 │       ├── bfs.md
 │       └── dfs.md
-├── Data_Structures/
-├── Design_Patterns/
+├── Data-Structures/
+├── Design-Patterns/
 │   ├── Creational/
 │   ├── Structural/
 │   └── Behavioral/
-├── LeetCode_Solutions/
+├── LeetCode/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
 ├── Books/
-├── Common_Questions/
+├── Questions/
 │   ├── heap_vs_stack.md
 │   ├── big_o_notation.md
 │   └── recursion_vs_iteration.md
 └── Courses/
-    └── frontendmasters_algorithms/
+    └── fem-algorithms/
 ```
 
 ## Popular Learning Resources
