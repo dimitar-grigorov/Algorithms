@@ -32,7 +32,7 @@ Algorithms/
 │   ├── big_o_notation.md
 │   └── recursion_vs_iteration.md
 └── Courses/
-    └── fem-algorithms/
+    └── [fem-algorithms](Courses/fem-algorithms/)
 ```
 
 ## Popular Learning Resources
