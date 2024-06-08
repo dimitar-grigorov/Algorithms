@@ -6,17 +6,39 @@ This repository contains notes and solutions from the Frontend Masters course on
 
 #### Introduction
 
- ##### 1. Introduction
+Change directory to the course folder: `cd Courses/fem-algorithms`.
 
+```bash
+cd "$(git rev-parse --show-toplevel)/Courses/fem-algorithms"
+```
+
+##### 1. Introduction
 
 #### Basics
 
- Big O Time Complexity  
- Arrays Data Structure  
- Arrays Q&A  
+##### 1. Big O Time Complexity
+
+##### 2. Arrays Data Structure
+
+##### 3. Arrays Q&A  
 
 #### Search
- Linear Search & Kata Setup  
+
+##### 1. Linear Search & Kata Setup  
+
+Make sure that you have [Node.js](https://nodejs.org/) and yarn installed `npm install --global yarn`.
+
+```bash
+cd kata-machine
+# Install dependencies and generate the project
+yarn install
+yarn generate
+cd src\day1
+# Open LinearSearch.js and implement the linear search algorithm
+# After implementing the algorithm, run the tests
+npx jest Linear
+```
+
  Binary Search Algorithm  
  Pseudo Code Binary Search  
  Implementing Binary Search  
